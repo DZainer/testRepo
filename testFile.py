@@ -1,2 +1,2 @@
 def testFunction():
-	return "Hello World"
+	return "Goodbye World"
